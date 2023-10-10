@@ -1,2 +1,3 @@
 Hello, Git!
-New change
+New change new
+Additional line from another clone
