@@ -1,4 +1,6 @@
 Hello, Git!
+
 New change new
 Additional line from another clone
 Newline
+
