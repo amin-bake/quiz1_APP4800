@@ -1,3 +1,3 @@
 Hello, Git!
-New change
+New change conflict!
 Additional change to feature.txt
